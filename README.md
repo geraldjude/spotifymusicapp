@@ -5,6 +5,7 @@ A `Musicplayer App`, using React that communicates with the Spotify API.
 See it in action [here](https://bit.ly/2LjKgVl).
 
 Please find the test credentials below if you don't have a spotify account:
+
 `Spotify`
 > email: musicappspotify@gmail.com
 
